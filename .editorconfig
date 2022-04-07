@@ -1,0 +1,4 @@
+﻿[*.cs]
+
+# IDE0021: Usa il corpo del blocco per i costruttori
+csharp_style_expression_bodied_constructors = false

@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Queen_rompicapo": {
+      "commandName": "Project",
+      "commandLineArgs": "/unsafe"
+    }
+  }
+}
